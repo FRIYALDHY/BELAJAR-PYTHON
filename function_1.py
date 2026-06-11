@@ -1,5 +1,5 @@
 def sapa():
     print("halo friyaldhy")
-    primnt("selamat belajar python")
+    print("selamat belajar python")
 
 sapa()
